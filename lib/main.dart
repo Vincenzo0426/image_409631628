@@ -29,7 +29,7 @@ class ImageBrowse extends StatefulWidget
 
 class _ImageBrowseState extends State<ImageBrowse>
 {
-  var images=['assets/RRRRRRR.jpg', 'assets/disgusting.jpg', 'assets/ikun.jpg', 'assets/roger.jpg'];
+  var images = ['assets/RRRRRRR.jpg', 'assets/disgusting.jpg', 'assets/ikun.jpg', 'assets/roger.jpg'];
   int imageindex = 1;
   String defult_image = "assets/RRRRRRR.jpg";
 

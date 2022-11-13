@@ -16,4 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 //ui部分是用最基本的方式設計的，額外做的部分是用flutter launcher icon去改變圖片
-//讓圖片能夠前後變換是用up down兩個函數做的
+//讓圖片能夠前後變換是用up跟down兩個函數做的
